@@ -1,6 +1,8 @@
 # hi :)
 
 i'm a 18 year old cs student from brazil who likes coding, currently studying at Unochapecó
+
+
 lost access to my [old account](https://github.com/ornnacio/) so i just cloned everything here
 
 ### things i'm okay at:
