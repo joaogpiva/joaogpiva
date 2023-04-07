@@ -1,14 +1,23 @@
-# hi :)
+# hey 👋
 
-i'm an 18 year old cs student from brazil who likes coding, currently studying at UFFS Chapecó
+i'm a 19 year old cs student from brazil, looking for work and currently studying at UFFS Chapecó
 
-lost access to my [old account](https://github.com/ornnacio/) so i just cloned everything here
+lost access to my [old account](https://github.com/ornnacio/) so i just forked everything here
 
-### things i'm okay at:
-- [![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react&link=https://github.com/joaogpiva/)](https://github.com/joaogpiva/) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/joaogpiva/)](https://github.com/joaogpiva/) [![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase&link=https://github.com/joaogpiva/)](https://github.com/joaogpiva/) [![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&link=https://github.com/joaogpiva/)](https://github.com/joaogpiva/)
-- math olympiads
-- strategy/roguelike/card games
+### things i'm okay at
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![Vue](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vue.js) ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=1572B6) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=4479A1) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&logoColor=FFCA28) ![Vim](https://img.shields.io/badge/-Vim-black?style=flat-square&logo=vim&logoColor=019733) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
-### social links:
+### things i've dabbled in
 
-[![twitter](https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAMAAAD%2BMweGAAABX1BMVEVHcEwdofIdofEdofEcofIcofIcofIdofIdofIcofIdoPEdofIdofIdofIdofIdofIcofIcofIcoPIdofIcofIcofIdofIcofIcoPIdoPEdofIdoPIcofIcofIcofIdofIcofIdofEdofEcofEcoPEdofIdofIdoPIcoPEdofIcoPEdofIcofIcofIdoPIcofIdofIcoPEdofIdoPIdofIcofIdoPIdofIdoPIdofEcofIdofIcofIdofIdoPIdofIdoPIdoPIdofIcofIdofIdoPEdofIdofEcofIcofIcofIdofIcofIcoPIcoPIdofIdoPIcoPIcofEcofIcofIdofIcoPIdofIcofIcofIcofIcofIcoPIcofIdofIcofIcofIdofIcofIcofEcofIdofIeqv8dpfgeq%2F8dpPcfrf8frP8dovMdpfkdovQep%2Fwfr%2F8dpvkdpPYdo%2FUeqPzhgruRAAAAZXRSTlMA%2B%2F75%2Fv3I%2Fv0C%2FgIB%2FN0oBMECkfotBhSR%2Ba3%2BBYr2%2BiICqf7%2B3gqL2RwBfPzz6PeLBMz0xvvaPitfmIeyOgEUA%2FynNe4C%2Bfzo8dg4lMxAB5dxCuM3HUH1iMsMRCBI2ChwNwNU6Rv4CHQAAADXSURBVHjaHImDemRRGARreM4dz25s27Zt28l%2FHef9R90fuqvI3JABDNJza6mnl%2FtH0td3LMXjdA948m29ZZ%2B5ME9voYdOd1BFlq2HV84v%2F35XJjtoMQPBcNI6Bq5%2BNk2nvSblaBWOySqcZbf98bBlOlqU%2FhidgpMtN6mUDhRAMPLeNQzMT%2FTVKiUiSsrsKpqBof5YuICKjZRjsMDs12dr8UrI%2B88%2FSKwzPabbCr7ajlaQoJjFGQnrRt%2BNVmIAu0f7YopYdkN9XQlweLC3syGhkd4m8oMIAAAMSynXAQyZ7gAAAABJRU5ErkJggg%3D%3D)](https://twitter.com/ornnacio) [![instagram](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAACQFBMVEVHcEyOSMLtCx6sOpvYG0jBLHT2AQifRbWUTciRTcn2JwOwOZPmECjIJmClQKeQSsaYS8GaSb3EKWzWHUzuCBiKRb33DwG4M4T2SgS5MoPfFjn3CgWOScSwN42MRsDiEzKVTMbZGkaGQri1NYqYSsCjQarNI13CKm%2FUHk30BxH2BAOJRLv3MgCJRLz2aQTrDCKJRLyPScSCP7OCPrOrO5iBPrKMRr%2FNI1x8Oa18Oa1%2FO7F%2FO7F5OKl5OKm4MoL3GgDmECrLJF2xN5H3VAD0BQaFQrb2iAScR7q5MH3dFzyPScXoDifWHUbALHPWHUmmP6aUTMe2NIjMJF7iFDOKRLr3bgL2bAL3HAD3WQD0BxCNSMD2rAT1pAm0NYv3qQKfRbX3NgD3zQL2BAr3EwH3vgD1hgX3vgD21wj3zQHkEi%2F0SQP3BwL32Af0ZwSqPJ6PTMf1IwGYSb22NIjuChz1CQXiEzTwCRXDKm%2BkQKXVHUzJJV3oDySsO5i2NIfALXbZGka%2FLHThFDTWHEjlJ2jQJF78EzTFOpnDRri0UNL%2FCxznG0jKL36ZTtCpVuKUSsv%2FBwb%2FPAHnKGqdUNLRMoT%2FXgGQR8b%2FHgH%2FGgKNRMLKLnupS8P%2FgAGqVuTxHU7%2FEzKJQL6BO7X%2FQQD%2FBwqJQL%2F%2FowGHQbu1QKnhHEnHLnnUJWH7Cx7%2FbgD%2FPQCLRcD9nAD%2FxAH%2F2AH%2BewD%2FxQCQSMXPL37%2BWgCUS8rpHEv%2BOQD%2BFwCYTcz8BQehR7vXJWK2P6j%2BCx6vg9yGAAAAg3RSTlMAbKOly9ujoqJsbnZSMmmibcOIqUdtp55tqadv3zix7Nv%2BaeacafRgYGtcu6KKb5KYojN7N2Hh0tL55%2FZETlfbkkuQpztHbfM4d9FkMkJCz9rNrsxMjnj72JpKZjj%2BguLY0Orp6kr5TPbjSKZDTNdJR0vX3UrXSq5KrS5VVf3Pz0%2F7Te5C1rYAAADXSURBVAhbBcG7SgNBFAbgnDP%2FmZl13Z1dciGN4JukD2gnKWIjJFiI2lkGfQJTCW5vFfIKKcTehxAkYiHEKHuJM34ftY5wsi1rNso84gXH41C8fVZlJ8nthCC%2BeN9%2Bw9S7OhQBo4f1qW2I5N775grlx8ZUd1opp8Ux%2F2zWza010T4uOs6i%2BgKsnvE8W0RaA6nXNp7LzZN1mYLpedOT61DkqWMg6v%2FFXVn6rh6tNHPcb%2B9dtg%2Bzg%2BmrgOlMfitlVcgZhMDx0OokMSkRy0BR65yGOwVFjGea%2FQOgzz%2BvNbIUlwAAAABJRU5ErkJggg%3D%3D)](http://instagram.com/joaogpiva)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=239120) ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet&logoColor=512BD4) ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus&logoColor=00599C) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust) ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash) 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogpiva&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogpiva&layout=compact&langs_count=7&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+(this ranking doesn't take into account my old repos that i just forked here, i've got way more JS usage than this)
+
+### you can find me here :)
+
+[![GMail](https://img.shields.io/badge/-GMail-black?style=for-the-badge&logo=gmail)](mailto:joaogpiva@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/joaogpiva/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/joaogpiva/)
