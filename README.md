@@ -9,7 +9,7 @@ lost access to my [old account](https://github.com/ornnacio/) so i just forked e
 
 ### things i've dabbled in
 
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=239120) ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet&logoColor=512BD4) ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus&logoColor=00599C) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust) ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash) 
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=239120) ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet&logoColor=512BD4) ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus&logoColor=00599C) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust) ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash) ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte) 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogpiva&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogpiva&layout=compact&langs_count=7&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
