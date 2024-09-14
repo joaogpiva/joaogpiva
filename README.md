@@ -1,6 +1,6 @@
 # hey 👋
 
-i'm a 19 year old cs student from brazil, backend dev at Hub2b and currently studying at UFFS Chapecó
+i'm a 20 year old cs student from brazil, backend dev at Hub2b and currently studying at UFFS Chapecó
 
 lost access to my [old account](https://github.com/ornnacio/) so i just forked everything here
 
